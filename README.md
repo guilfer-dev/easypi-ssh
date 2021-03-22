@@ -7,7 +7,7 @@ This app was created to easily configurate new writen Raspberry Pi SD card image
  - Setup a wi-fi connection creating proper configuration file with SSID and Password informed by the user.
 
 **Important:**
-- This app will not validate the device or anything typed in the process when applying the configuration
+- The app will not validate the device or anything typed when applying the configuration
 - Only works in windows machines
 - Tested with Raspberry Pi OS using Windows 10 version 20H2
 
@@ -20,4 +20,4 @@ This app was created to easily configurate new writen Raspberry Pi SD card image
  **Alternatively you can generate a executable file with PyInstaller (recommended)**
 - After installing requirements.txt execute the command `pyinstaller --onefile  main.py`
 
-**With you need to configure your Pi as an access point I highly recomend checking out my friend's repository** [raspap](https://github.com/davifcs/raspap)
+**If you need to configure your Pi as an access point I highly recomend checking out my friend's repository** [raspap](https://github.com/davifcs/raspap)
