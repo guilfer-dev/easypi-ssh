@@ -1,6 +1,6 @@
 # EasyPiSSH
 
-:exclamation: **UPDATE: This script is deprecated due to major updates on the Raspberry Pi ecosystem, now for setting up SSH and WI-FI, press "CRTL + SHIFT + ." while in the main page of "Raspberry Pi Imager APP".**
+:exclamation: **UPDATE: Now its possible to setup SSH and WI-FI while writing a new image pressing "CRTL + SHIFT + x" in the main menu of "Raspberry Pi Imager" APP**
 
 This app was created to easily configurate new writen Raspberry Pi SD card images.
 
